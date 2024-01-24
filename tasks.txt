@@ -1,0 +1,4 @@
+Tarefas
+
+[ ] - Estudar GIT
+[ ] - Criar conta no GitHub
