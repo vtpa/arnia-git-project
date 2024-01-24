@@ -1,4 +1,5 @@
 Tarefas
 
-[ ] - Estudar GIT
-[ ] - Criar conta no GitHub
+[x] - Estudar GIT
+[x] - Criar conta no GitHub
+[ ] - Adicionar novos arquivos
